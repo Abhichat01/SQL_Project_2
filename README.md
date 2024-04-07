@@ -1,7 +1,7 @@
 **Problem Statement**: How to convert a relational design into tables in SQL Server?<br>
 **Topics**: <br>In this project, we will work on converting a relational design that enlists various
 users, their roles, user accounts and their statuses into different tables in SQL
-Server and insert data into them.
+Server and insert data into them.<br>
 **Tasks To Be Performed**:<br>
 ● Define relations/attributes<br>
 ● Define primary keys<br>
